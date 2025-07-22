@@ -1,0 +1,28 @@
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  border-right: 1px solid #ccc;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.company-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.company-item {
+  padding: 8px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.company-item:hover {
+  background-color: #ddd;
+}

@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.main-panel {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.placeholder-text {
+  text-align: center;
+  color: gray;
+  margin-top: 100px;
+  font-size: 18px;
+}
