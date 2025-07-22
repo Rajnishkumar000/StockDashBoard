@@ -1,5 +1,5 @@
-myapp/
-backend/venv/
-backend/env
-my-app1/node_modules
-my_app1/build
+.myapp/
+.backend/venv/
+.backend/env
+.my-app1/node_modules
+.my_app1/build
